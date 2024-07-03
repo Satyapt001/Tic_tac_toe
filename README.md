@@ -15,5 +15,5 @@ This game is build using java and its various concept like:<br>
  
 ![Tic_tac_toe](https://github.com/Satyapt001/Tic_tac_toe/assets/126075100/38a08abd-cd52-4e92-b56d-e112ff58812a)
 
-🔗[video](https://youtu.be/Jm8sgpb6NTY?si=vG0InhOtu_sLuQvN) referred to complete this project
+🔗 [video](https://youtu.be/Jm8sgpb6NTY?si=vG0InhOtu_sLuQvN) referred to complete this project
 
