@@ -8,7 +8,7 @@ This game is build using java and its various concept like:<br>
 <br>
 <p>
 
-"Imagine sharing a single computer 🖥️ with loved ones at home — siblings 👨‍👦 or college friends 💑. Even during office hours 🏢, when a break calls for a refresh, summon a companion for a shared gaming session. These moments foster beautiful ❤️ connections, reminding us that taking time to bond is invaluable. In these games, victories and losses alike mirror life's journey; losing gracefully is also a triumph, a testament to effort. So, embrace the joy! 🎉"
+"Imagine sharing a single computer 🖥️ with loved ones at home — siblings or college friends . Even during office hours 🏢, when a break calls for a refresh, summon a companion for a shared gaming session. These moments foster beautiful connections, reminding us that taking time to bond is invaluable. In these games, victories and losses alike mirror life's journey; losing gracefully is also a triumph, a testament to effort. So, embrace the joy! 🎉"
 </p>
 
  <br>
